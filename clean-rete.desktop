@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Azzera configurazione rete
 Name[it]=Azzera configurazione rete
-Name=[en]=Clean ethernet configuration on eth0
+Name[en]=Clean eth0 configuration
 Comment=Azzera la configurazione di rete Ethernet (eth0)
 Comment[it]=Azzera la configurazione di rete Ethernet (eth0)
 Comment[en]=Clean the eth0 network configuration

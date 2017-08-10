@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Configura automaticamente rete
 Name[it]=Configura automaticamente rete
-Name[en]=Automatically config network
+Name[en]=Auto-config network
 Comment=Configura automaticamente la connessione di rete Ethernet (eth0)
 Comment[it]=Configura automaticamente la connessione di rete Ethernet (eth0)
 Comment[en]=Performs an automatic ethernet configuration on eth0
