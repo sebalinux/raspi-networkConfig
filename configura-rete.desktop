@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=Configura rete
 Name[it]=Configura rete
+Name[en]=Configure the network
 Comment=Configura la connessione di rete Ethernet (eth0)
 Comment[it]=Gestisce e cambia le impostazioni della connessione di rete
+Comment[en]=Manage and change the network config on eth0
 Icon=preferences-system-network
 Exec=sudo /home/pi/ConfigRete/config_eth0.sh
 Terminal=false

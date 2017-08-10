@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Info Rete
+Name[it]=Info Rete
+Name[en]=Network information
+Comment=Informazioni sulla configurazione della rete ethernet cablata (eth0)
+Comment[it]=Informazioni sulla configurazione della rete ethernet cablata (eth0)
+Comment[en]=Information about network configuration on device eth0
+Icon=preferences-system-network
+Exec=sudo /home/pi/ConfigRete/info_eth0.sh
+Terminal=false
+StartupNotify=true
+Type=Application

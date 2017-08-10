@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=Ping Gateway
 Name[it]=Ping Gateway
+Name[en]=Ping Gateway
 Comment=Verifica la raggiungibilità del default gateway su rete ethernet cablata (eth0)
 Comment[it]=Verifica la raggiungibilità del default gateway su rete ethernet cablata (eth0)
+Comment[en]=Verify if the default gateway is reachable on eth0
 Icon=preferences-system-network
 Exec=sudo /home/pi/ConfigRete/ping-gw.sh
 Terminal=false

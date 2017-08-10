@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=Ping IP
 Name[it]=Ping IP
+Name[en]=Ping IP
 Comment=Verifica la raggiungibilità di un IP  su rete ethernet cablata (eth0)
 Comment[it]=Verifica la raggiungibilità di un IP su rete ethernet cablata (eth0)
+Comment[en]=Varify if the IP is reachable on eth0
 Icon=preferences-system-network
 Exec=sudo /home/pi/ConfigRete/ping-ip.sh
 Terminal=false
