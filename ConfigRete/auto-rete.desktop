@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Configura automaticamente rete
+Name[it]=Configura automaticamente rete
+Comment=Configura automaticamente la connessione di rete Ethernet (eth0)
+Comment[it]=Configura automaticamente la connessione di rete Ethernet (eth0)
+Icon=preferences-system-network
+Exec=sudo /home/pi/ConfigRete/auto_eth0.sh
+Terminal=false
+StartupNotify=true
+Type=Application

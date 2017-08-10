@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Ping IP
+Name[it]=Ping IP
+Comment=Verifica la raggiungibilità di un IP  su rete ethernet cablata (eth0)
+Comment[it]=Verifica la raggiungibilità di un IP su rete ethernet cablata (eth0)
+Icon=preferences-system-network
+Exec=sudo /home/pi/ConfigRete/ping-ip.sh
+Terminal=false
+StartupNotify=true
+Type=Application

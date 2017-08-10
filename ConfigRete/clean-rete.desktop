@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Azzera configurazione rete
+Comment=Azzera la configurazione di rete Ethernet (eth0)
+Icon=preferences-system-network
+Exec=sudo /home/pi/ConfigRete/clean_eth0.sh
+Terminal=false
+StartupNotify=true
+Type=Application
